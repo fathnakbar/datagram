@@ -1,0 +1,30 @@
+{
+    "$api": [
+        {
+            "base": "/"
+        },
+        {
+            "base": "admin"
+        },
+        {
+            "base": "api",
+            "routes": [
+                {
+                    "base": "users",
+                    "rules": ["session.status == users: column1, column2, column3 !(update, insert)"],
+                    "middleware": ["file-name"]
+                },
+                {
+                    "base": "transactions"
+                },
+                {
+                    "base": "collections"
+                }
+            ]
+        }
+    ],
+    "$database": {
+        "dbms": "provider"
+    },
+    "$git": {}
+}
