@@ -1,30 +1,14 @@
-# SolidStart
+# Datagram
+Datagram is a powerful data analysis, analytics, and data science tool that helps businesses, organizations, and individuals make informed decisions by providing insights into their data.
 
-Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
+With Datagram, users can easily connect to and import data from a wide range of sources, including databases, spreadsheets, and cloud storage platforms. Once the data is imported, users can perform a variety of data analysis and data science tasks, including:
 
-## Creating a project
+- Data exploration and visualization: Explore and understand the structure and content of the data using powerful search and filtering tools, and create interactive charts and graphs to clearly communicate insights and findings to stakeholders.
 
-```bash
-# create a new project in the current directory
-npm init solid@latest
+- Statistical analysis: Perform statistical analyses and generate reports to understand trends and patterns in the data.
 
-# create a new project in my-app
-npm init solid@latest my-app
-```
+- Machine learning: Train and deploy machine learning models to predict outcomes and make data-driven decisions.
 
-## Developing
+- Data cleansing and transformation: Clean and prepare data for analysis by removing errors, duplicates, and irrelevant information.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-Solid apps are built with _adapters_, which optimise your project for deployment to different environments.
-
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
+Datagram also provides a range of collaboration and sharing features, allowing users to work together on projects and share their results with team members and stakeholders. Whether you are a data scientist, business analyst, or casual user, Datagram has the tools and features you need to gain valuable insights from your data.
