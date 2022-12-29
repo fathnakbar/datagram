@@ -11,4 +11,6 @@ With Datagram, users can easily connect to and import data from a wide range of 
 
 - Data cleansing and transformation: Clean and prepare data for analysis by removing errors, duplicates, and irrelevant information.
 
+- Data visualization: View analysis and analytics result with informative dashboard
+
 Datagram also provides a range of collaboration and sharing features, allowing users to work together on projects and share their results with team members and stakeholders. Whether you are a data scientist, business analyst, or casual user, Datagram has the tools and features you need to gain valuable insights from your data.
